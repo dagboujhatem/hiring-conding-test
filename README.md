@@ -1,11 +1,5 @@
 # Hiring - coding test
 
-## Exercise context :  What is a Bag-of-Words?
-
-A bag-of-words model, or BoW for short, is a way of extracting features from text for use in modeling, such as with machine learning algorithms.
-
-## Exercise statement :
-
 Write a script that does :
 
 1. Read this through a file https://en.wikipedia.org/wiki/Albert_Einstein
